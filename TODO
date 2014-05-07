@@ -1,0 +1,10 @@
+//TODO
+
+- Fix the proper Min and Max variables for terminal size
+- Add transformation function to properly transform a current board into a new one.
+- Make the ability to save the current game (should be a fixed mode, possibly under the difficulty display)
+- In save file, first bit should be save mode (y/n), second two bits should be difficulty and the rest should be the previous board.
+- Need error checking function (for improper move) as well as one for checking for a won board
+- Future version should have a few command line arguments
+- Add the ability to install/uninstall program in makefile
+- Look into seeing how to check for changes in header file for MAKE
